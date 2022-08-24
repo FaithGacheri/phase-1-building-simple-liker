@@ -4,8 +4,10 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+let modal = document.getElementById("modal");
+modal.classList.add("hidden")
 
-
+let likeBtn = document.
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
